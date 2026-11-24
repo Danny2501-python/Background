@@ -7,7 +7,7 @@ Hanoi, Vietnam · [LinkedIn](https://www.linkedin.com/in/duc-thang-5956b11a7/) �
 
 I build data pipelines, validate reporting datasets and turn operational data into dashboards teams can use. My experience spans healthcare operations, insurance underwriting, banking and pricing consulting.
 
-[View selected projects](#selected-projects) · [Explore experience](#experience)
+[Download CV (PDF)](Vuong_Duc_Thang_Data_Analyst.pdf) · [View selected projects](#selected-projects) · [Explore experience](#experience)
 
 ## Selected impact
 
