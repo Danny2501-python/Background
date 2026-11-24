@@ -1,18 +1,45 @@
-# Background
-- Data Analytics sharing about my journey and learnings in tech
-- Studied Data Science at the University of Sussex, United Kingdom
-- Working in the field of financial and environmental analysis
-- Currently learning about data analytics and machine learning
+![Isometric glass and metal data visualisation on a dark navy background](assets/data-analyst-cover.webp)
 
+# Vuong Duc Thang
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Danny&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Danny&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Data Analyst · Business Intelligence & Data Engineering**<br>
+Hanoi, Vietnam · [LinkedIn](https://www.linkedin.com/in/duc-thang-5956b11a7/) · [GitHub](https://github.com/Danny2501-python)
 
----
-[![](https://visitcount.itsvg.in/api?id=Danny&icon=0&color=0)](https://visitcount.itsvg.in)
+I build data pipelines, validate reporting datasets and turn operational data into dashboards teams can use. My experience spans healthcare operations, insurance underwriting, banking and pricing consulting.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[View selected projects](#selected-projects) · [Explore experience](#experience)
+
+## Selected impact
+
+| Result | Work behind it |
+| :--- | :--- |
+| **1M+ banking transactions analysed** | Queried and validated transaction data with SQL, then designed Power BI dashboards at Techcombank. |
+| **80% less time spent on Excel-based reporting** | Consolidated customer and business indicators into interactive Power BI reporting at Techcombank. |
+| **Monitoring delivered within 15 minutes of deployment** | Built Python and Excel tools to compare actual and expected underwriting performance after changes went live at Hastings Direct. |
+
+## Selected projects
+
+| Project | What to look for |
+| :--- | :--- |
+| [Loan Default](https://github.com/Danny2501-python/Loan-Default) | Python project on loan default prediction and model evaluation. |
+| [Motor RP Analyst](https://github.com/Danny2501-python/Motor-RP-Analyst) | Motor insurance analysis and reporting. |
+| [Physical Activity Monitoring Research](https://github.com/Danny2501-python/Physical-Activity-Monitoring-Reasearch) | Research project on physical activity monitoring. |
+
+## Experience
+
+- **HCI Group · Data Analyst, Data Engineering & BI** — Build Python and SQL pipelines with Airflow, standardise ERP service master data and analyse digital adoption, service revenue and costs.
+- **Hastings Direct · Data Analyst** — Reconcile motor insurance datasets and build Tableau dashboards for underwriting and pricing performance.
+- **KPMG · Pricing Consulting & Analytics** — Benchmark pricing, evaluate intercompany transactions and communicate customer segmentation findings.
+- **Techcombank · Data Analyst, Financial Analysis** — Build Power BI reporting for banking transactions, revenue, operating expenses and management KPIs.
+- **EY · Audit Analytics Intern** — Review unusual financial transactions and support risk-based audit testing.
+
+## Tools and education
+
+**Analytics** · SQL, Python, pandas, Excel<br>
+**BI** · Power BI, DAX, Power Query, Tableau<br>
+**Data engineering** · Apache Airflow, Docker, Kubernetes, ETL/ELT, reconciliation and master data
+
+**MSc, Financial Data Analytics** · University of Sussex<br>
+**BSc, Finance and Banking** · National Economics University
+
+[Connect on LinkedIn](https://www.linkedin.com/in/duc-thang-5956b11a7/)
